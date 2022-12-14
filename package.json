@@ -1,0 +1,24 @@
+{
+  "name": "sstc-community",
+  "version": "1.0.0",
+  "description": "This is the website for sstc student community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imshubh7/sstc-community.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imshubh7/sstc-community/issues"
+  },
+  "homepage": "https://github.com/imshubh7/sstc-community#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
